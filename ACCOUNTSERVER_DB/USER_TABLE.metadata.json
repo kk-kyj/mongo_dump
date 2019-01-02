@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ACCOUNTSERVER_DB.USER_TABLE"},{"v":2,"unique":true,"key":{"uuid":1},"name":"uuid_1","ns":"ACCOUNTSERVER_DB.USER_TABLE"}],"uuid":"d86d036d4b9d486989f9919e17b3f210"}

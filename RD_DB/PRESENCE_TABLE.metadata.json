@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"RD_DB.PRESENCE_TABLE"},{"v":2,"unique":true,"key":{"di":1},"name":"di_1","ns":"RD_DB.PRESENCE_TABLE"}],"uuid":"2d72e97a21994d388b1919d93d992d95"}
